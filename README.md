@@ -2,7 +2,7 @@
 
 ### WARNING
 This application is meant for experimental purposes only. 
-Do not use this application for medical decision or treatment.
+Do not use this application for making medical decisions.
 
 ### 1. Screen Startup
 
