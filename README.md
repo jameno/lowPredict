@@ -1,6 +1,4 @@
-#lowPredict
-
-Using an R Shiny App to predict hypoglycemic events in real time from Nightscout CGM data
+# lowPredict
 
 ### WARNING
 This application is meant for experimental purposes only. 
